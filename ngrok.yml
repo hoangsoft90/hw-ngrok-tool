@@ -1,0 +1,11 @@
+auth_token: gwUgKJWPQZH6FW1mz2oZ
+tunnels:
+  hw-vsvn:
+    proto:
+      http: "8080"
+  hw-xampp:
+    proto:
+      http: "80"
+  hw-ftp:
+    proto:
+      tcp: "21"
